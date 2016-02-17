@@ -1,14 +1,16 @@
 # Google Maps Tools v1.0
-------------------------
 An ArcGIS python add-in that allows a user to open their current view in Google Maps, or open Street View at a selected location.
 
 
 ## Requirements
-The Python library [pyproj](https://github.com/jswhit/pyproj) is required for this add-in to work correctly.
+The python library [pyproj](https://github.com/jswhit/pyproj) is required for this add-in to work correctly.
 
 
 ## Install
-To create the add-in clone github repo and run makeaddin.py. Install the resulting .esriaddin file.
+1. Install the [pyproj](https://github.com/jswhit/pyproj) library.
+2. Clone the repository
+3. Run makeaddin.py. 
+4. Install the resulting .esriaddin file.
 
 
 ## Notes
